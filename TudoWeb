@@ -1,0 +1,25 @@
+# Pesquisa de Satisfação - TudoWeb
+
+Este projeto foi desenvolvido para realizar uma pesquisa de opinião com clientes da empresa **TudoWeb**, utilizando Python e estruturas de repetição e decisão.
+
+## 🎯 Objetivo
+
+Coletar informações de 50 entrevistados sobre o atendimento prestado pela empresa, registrando:
+
+- Nome
+- Idade
+- Opinião sobre o atendimento:
+  - 1: EXCELENTE
+  - 2: BOM
+  - 3: RUIM
+
+Ao final, o programa exibe:
+
+- Quantidade de respostas **EXCELENTE**
+- Quantidade de respostas **RUIM**
+
+## 🧠 Tecnologias utilizadas
+
+- Python 3
+- Estrutura de repetição `for`
+- Estrutura de decisão `if / elif`
